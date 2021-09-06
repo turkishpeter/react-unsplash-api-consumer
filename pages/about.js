@@ -1,5 +1,5 @@
 function About() {
-    return <div>About Malac</div>
+    return <div>About MalacASD</div>
   }
   
   export default About
